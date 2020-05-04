@@ -134,7 +134,7 @@
         function makeApiCall_Get() {
             var params = {
                 // The ID of the spreadsheet to retrieve data from.
-                spreadsheetId: '1PnS6GxferfuE6NDQr2VgTJwlY4wK4J9Hj4TF3CMa4z0', // TODO: Update placeholder value.
+                spreadsheetId: '', // TODO: Update placeholder value.
 
                 // The A1 notation of the values to retrieve.
                 range: 'Data!B:C', // TODO: Update placeholder value.
